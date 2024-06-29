@@ -19,7 +19,7 @@
   To install dependencies, run the following command:
 
   ```
-  npm i -y inquirer@8.2.4  
+  npm i -y inquirer@8.2.4 
 
   ```
 
@@ -46,4 +46,4 @@
 
   You can also contact me directly at: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
 
-A walkthrough video of my application: [![video image](./image.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
+A walkthrough video of my application: [![video image](📹)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
