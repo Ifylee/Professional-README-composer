@@ -3,7 +3,7 @@
   MIT
 
   ## Description
-  This project is designed to help users generate a dynamically generated professional README.md file as soon as possible
+  This project is designed to help users generate a dynamically generated professional README.md file as soon as possible.
 
 
   ## Table of Contents
@@ -24,14 +24,14 @@
   ```
 
   ## Usage
-  This application is user friendly. Open it in the integrated terminal, run the install command and answer the questions
+  This is a user friendly application. To use, open the app in the integrated terminal, run the install command, type  node  and then filename, Answer the questions to auto-populate your README file.
   
 
   ## License
     This project is licensed under the MIT license.
 
   ## Contributing
-  Open for contribution.
+  Open for contributions.
 
   ## Tests
   Run the following command for tests:
@@ -46,4 +46,4 @@
 
   You can also contact me directly at: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
 
-A walkthrough video of my application: [./image.png](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
+A walkthrough video of my application: [./assets/images/image.png](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
