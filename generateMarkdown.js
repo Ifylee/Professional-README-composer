@@ -48,7 +48,7 @@ function generateMarkdown(data) {
 
   You can also contact me directly at: [${data.email}](mailto:${data.email})
 
-A walkthrough video of my application: [./assets/images/image.png](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
+A walkthrough video of my application: [![video image](./image.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
 `;
 };
 
