@@ -41,14 +41,15 @@ function generateMarkdown(data) {
   ${data.test}
   \`\`\`
 
+## Video walkthrough
+
+[![video image](./image-1.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
 
   ## Questions
 
   For more questions, please open an issue on my github: [${data.github}](https://github.com/${data.github})
 
   You can also contact me directly at: [${data.email}](mailto:${data.email})
-
-A walkthrough video of my application: [![video image](./image-1.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
 `;
 };
 

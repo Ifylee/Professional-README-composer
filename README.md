@@ -19,7 +19,7 @@
   To install dependencies, run the following command:
 
   ```
-  npm i -y inquirer@8.2.4   
+  npm i -y inquirer@8.2.4    
 
   ```
 
@@ -39,11 +39,12 @@
   node test
   ```
 
+## Video walkthrough
+
+[![video image](./image-1.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
 
   ## Questions
 
   For more questions, please open an issue on my github: [ifylee](https://github.com/ifylee)
 
   You can also contact me directly at: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
-
-A walkthrough video of my application: [![video image](./image-1.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
