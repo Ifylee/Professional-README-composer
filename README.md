@@ -19,19 +19,19 @@
   To install dependencies, run the following command:
 
   ```
-  npm i -y inquirer@8.2.4 
+  npm i -y inquirer@8.2.4  
 
   ```
 
   ## Usage
-  This is a user friendly application. To use, open the app in the integrated terminal, run the install command, type  node  and then filename, Answer the questions to auto-populate your README file.
+  This is a user friendly application. To use, open the app in the integrated terminal, run the install command, type node and then filename, Answer the questions to auto-populate your README file.
   
 
   ## License
     This project is licensed under the MIT license.
 
   ## Contributing
-  Open for contributions.
+  Open for contributions
 
   ## Tests
   Run the following command for tests:
@@ -46,4 +46,4 @@
 
   You can also contact me directly at: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
 
-A walkthrough video of my application: [./assets/images/image.png](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
+A walkthrough video of my application: [![video image](./image.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
