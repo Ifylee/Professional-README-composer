@@ -43,7 +43,7 @@ function generateMarkdown(data) {
 
 ## Video walkthrough
 
-[![video image](./image-1.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
+[![video image](./image-1.png)](https://drive.google.com/file/d/1SNFYaPdbqn2fJCeMmq68HdrpOCdPCbL6/view?usp=sharing)
 
   ## Questions
 

@@ -3,7 +3,7 @@
   MIT
 
   ## Description
-  This project is designed to help users generate a dynamically generated professional README.md file as soon as possible.
+   This project is designed to help users generate a dynamically generated professional README.md file as soon as possible.
 
 
   ## Table of Contents
@@ -19,12 +19,12 @@
   To install dependencies, run the following command:
 
   ```
-  npm i -y inquirer@8.2.4    
+  npm i -y inquirer@8.2.4 
 
   ```
 
   ## Usage
-  This is a user friendly application. To use, open the app in the integrated terminal, run the install command, type node and then filename, Answer the questions to auto-populate your README file.
+  This is a user friendly application. To use, simply open the app in the integrated terminal, run the insta command, type node and the filename, answer the questions to auto-populate your README file
   
 
   ## License
@@ -41,7 +41,7 @@
 
 ## Video walkthrough
 
-[![video image](./image-1.png)](https://drive.google.com/file/d/1Y3xW-hvpAtckOe-4lEeESHfdhUAhvibF/view?usp=sharing)
+[![video image](./image-1.png)](https://drive.google.com/file/d/1SNFYaPdbqn2fJCeMmq68HdrpOCdPCbL6/view?usp=sharing)
 
   ## Questions
 
