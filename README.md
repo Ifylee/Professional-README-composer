@@ -19,7 +19,7 @@
   To install dependencies, run the following command:
 
   ```
-  npm i -y inquirer@8.2.4 
+  npm i -y inquirer@8.2.4  
 
   ```
 
